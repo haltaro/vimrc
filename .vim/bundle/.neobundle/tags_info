@@ -1,0 +1,13 @@
+Flake8-vim
+caw.vim
+jedi-vim
+jellybeans.vim
+neobundle.vim
+neocomplete.vim
+neosnippet.vim
+syntastic
+unite.vim
+vim-autoclose
+vim-latex
+vim-python-pep8-indent
+vim-quickhl

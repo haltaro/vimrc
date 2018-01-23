@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/ryoma/.vim/bundle/neobundle.vim'
+let g:netrw_dirhist_2='/home/ryoma/ns-3-allinone/ns3-book/work/local/exp01/data'
+let g:netrw_dirhist_3='/usr/share/gnuplot/gnuplot'
+let g:netrw_dirhist_4='/home/ryoma/en-US/readmes'
+let g:netrw_dirhist_5='/proc'
+let g:netrw_dirhist_6='/home/ryoma/ns-3-allinone/ns-3.22/src/xgpon/model'
+let g:netrw_dirhist_7='/home/ryoma/ns-3-allinone/ns-3.22/src/ngpon2/model'
+let g:netrw_dirhist_8='/home/ryoma'
+let g:netrw_dirhist_9='/home/ryoma/.ssh'

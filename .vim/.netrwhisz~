@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/ryoma/ns-3-allinone/ns-3.22/log/201508310600_2.5Gbps_150Mbps'
+let g:netrw_dirhist_2='/home/ryoma/ns-3-allinone/ns-3.22/log/201508310600_2.5Gbps_150Mbps/Onu0'
+let g:netrw_dirhist_3='/home/ryoma/ns-3-allinone/ns-3.22/src/ngpon2/model'
