@@ -1,4 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/ryoma/ns3/source/ns-3.26/src/xgpon'
-let g:netrw_dirhist_2='/home/ryoma/ns3/source/ns-3.26/src/xgpon/model'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/ryoma/Desktop/ns3-book'
+let g:netrw_dirhist_2='/Users/ryoma/Desktop/ns3-book/work'
+let g:netrw_dirhist_3='/Users/ryoma/Downloads/iceberg.vim-0.4'
+let g:netrw_dirhist_4='/Users/ryoma/.vim/bundle/jellybeans.vim'
+let g:netrw_dirhist_5='/Users/ryoma/.vim/bundle/jellybeans.vim/colors'
+let g:netrw_dirhist_6='/Users/ryoma/.vim'
+let g:netrw_dirhist_7='/Users/ryoma/.vim/bundle'
+let g:netrw_dirhist_8='/Users/ryoma/Documents/github/jekyll-theme/centrarium-master/_includes'
