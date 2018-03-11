@@ -3,7 +3,6 @@ set softtabstop=0
 
 set hlsearch
 syntax on
-filetype plugin indent on
 set number
 imap <C-[> <esc>
 
@@ -14,7 +13,7 @@ if has('vim_starting')
 	set 
 	if !isdirectory(expand('~/.vim/bundle/neobundle.vim/'))
 		echo 'install neobundle...'
-		call system('git clone git://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim')
+		call system('git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim')
 	endif
 	set runtimepath+=~/.vim/bundle/neobundle.vim/
 endif
@@ -76,7 +75,6 @@ let g:airline_theme = 'light'
 
 filetype indent on
 filetype plugin indent on
-"colorscheme jellybeans
 set t_Co=256
 set encoding=utf-8
 set fileformats=unix,dos,mac
